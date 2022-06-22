@@ -1,2 +1,5 @@
-package com.example.diwspring.services;public interface BusinessService {
+package com.example.diwspring.services;
+
+public interface BusinessService {
+    String sayGreeting();
 }
